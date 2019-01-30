@@ -59,7 +59,7 @@ err：
 
 ```js
 var recMp3 = api.require('recMp3');
-myWebSocket.start(function(ret, err) {
+recMp3.start(function(ret, err) {
     if (ret) {
         alert(ret.message);
     } else {
