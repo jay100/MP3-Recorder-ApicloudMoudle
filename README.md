@@ -11,3 +11,5 @@ apicloud 模块 - mp3录音
 - <a href="https://docs.apicloud.com/Client-API/Func-Ext/recMp3" target="_blank">apicloud 文档</a>
 
 每个源码包 recMp3.zip 下有封装好的包，可以直接上传
+
+如果对你有帮助，给个 star吧
